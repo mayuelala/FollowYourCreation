@@ -4,9 +4,8 @@
 [Yue Ma*](https://mayuelala.github.io/), [Kunyu Feng*](https://github.com/fkyyyy), [Xinhua Zhang*](https://github.com/NXZXH), [Hongyu Liu](https://scholar.google.com/citations?user=bLRjUzAAAAAJ&hl=en), [David Junhao Zhang](https://junhaozhang98.github.io/), [Jinbo Xing](https://scholar.google.com/citations?user=ZB0gLU0AAAAJ&hl=en), [Yinhan Zhang](https://github.com/YinHan-Zhang),  
 [Ayden Yang](https://github.com/follow-your-creation/follow-your-creation.github.io), [Zeyu Wang](https://scholar.google.com/citations?user=q7NLPG0AAAAJ&hl=en) and [Qifeng Chen](https://scholar.google.com/citations?user=lLMX9hcAAAAJ&hl=en)
 
-<a href='https://arxiv.org/abs/2506.04590'><img src='https://img.shields.io/badge/ArXiv-2403.08268-red'></a> 
-<a href='https://follow-your-creation.github.io/'><img src='https://img.shields.io/badge/Project-Page-Green'></a>  
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=mayuelala.FollowYourCreation&left_color=green&right_color=red)  [![GitHub](https://img.shields.io/github/stars/mayuelala/FollowYourCreation?style=social)](https://github.com/mayuelala/FollowYourCreation) 
+<a href='https://arxiv.org/abs/2506.04590'><img src='https://img.shields.io/badge/ArXiv-2403.08268-red'></a> <a href='https://follow-your-creation.github.io/'><img src='https://img.shields.io/badge/Project-Page-Green'></a>  
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=mayuelala.FollowYourCreation&left_color=green&right_color=red)[![GitHub](https://img.shields.io/github/stars/mayuelala/FollowYourCreation?style=social)](https://github.com/mayuelala/FollowYourCreation) 
 </div>
 
 
@@ -74,9 +73,8 @@ More results can be found on our [Project page](https://follow-your-creation.git
 </table>
 
 
-# 📍 Note  
-### 🕹 We are cleaning the code and creating a demo. We really want everybody to try it! 
-### 😊 The code and checkpoints is coming soon！
+# 📍 Note   
+### 😊 The code and checkpoints are coming soon！
 ### 💗 Thanks for your attention! If you are interested in our work, please give us a star ⭐️⭐️⭐ to let us know.
 ### 🚀 We will speed up the development! 
 
